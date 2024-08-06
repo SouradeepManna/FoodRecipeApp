@@ -25,7 +25,7 @@ download apk app : https://www.mediafire.com/file/e2pteuagpozgdtm/Easy_food.apk/
 - Coroutines : do some code in the background.
 - view binding : instead of inflating views manually view binding will take care of that.
 - Glide : Catch images and load them in imageView.
-
+- Languages : Kotlin , XML
 
 
 
